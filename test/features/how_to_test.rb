@@ -1,4 +1,4 @@
-require "test_helper"
+require 'test_helper'
 
 feature 'List page' do
   scenario 'should make list' do
